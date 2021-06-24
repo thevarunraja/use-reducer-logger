@@ -1,6 +1,6 @@
 # logger-for-use-reducer
 
-A basic logger for the `useReducer` function in the [React Hooks API](https://reactjs.org/docs/hooks-reference.html#usereducer). This repo is a fork of https://github.com/Zaelot-Inc/use-reducer-logger. Added minor enhancements to the use-reducer-logger package.
+A basic logger for the `useReducer` function in the [React Hooks API](https://reactjs.org/docs/hooks-reference.html#usereducer). This repo is a fork of https://github.com/Zaelot-Inc/use-reducer-logger. Added minor enhancements(provides intellisense, diff between the previous and next state and rewritten in typescript) to the use-reducer-logger package.
 
 ![screenshot of logger](screenshot.png)
 
