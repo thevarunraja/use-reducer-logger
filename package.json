@@ -64,7 +64,7 @@
     "type": "git",
     "url": "https://github.com/thevarunraja/use-reducer-logger"
   },
-  "homepage": "https://github.com/thevarunraja/use-reducer-loggerr",
+  "homepage": "https://github.com/thevarunraja/use-reducer-logger",
   "keywords": [
     "useReducer logger",
     "logger for React useReducer",
